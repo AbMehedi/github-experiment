@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onHelloButtonClick() {
-        welcomeText.setText("github success!");
+        welcomeText.setText("github success!pranto");
     }
 }
